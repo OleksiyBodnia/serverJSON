@@ -7,7 +7,7 @@
   "nav-features-header": "Features",
   "nav-company-header": "Company",
   "get-started": "Get Started",
-  "hero-home-div-title": "Collecting payments is easy, right?",
+  "hero-home-div-title": "Collecting payments <span style='color: var(--Text-Primary, #FF474D)'>is easy</span>, right?",
   "hero-home-div-text": "Manage all your supply chain transactions in one dashboard. Get paid faster, reconcile quicker, grow bigger. ",
   "hero-home-div-btn": "Get Started Now",
   "hero-home-div-sml-text": "It's free to try!",
